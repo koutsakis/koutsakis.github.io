@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Georgios Koutsakis"
 title_separator          : "-"
 name                     : &name "Georgios Koutsakis"
 description              : &description "personal description"
@@ -85,7 +85,7 @@ author:
   bio              : "Postdoctoral Fellow  Harvard University"
   location         : "Cambridge, MA USA"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=_uw9_l0AAAAJ&view_op=list_works&sortby=pubdate"
   email            : "koutsakis@seas.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/koutsakisgeorge/"
   orcid            : "http://orcid.org/0000-0002-8108-2591"
   pinterest        :
   soundcloud       :
@@ -181,9 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  #portfolio:
-  #  output: true
-  #  permalink: /:collection/:path/
+  portfolio:
+    output: false
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -227,15 +227,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
+  #_portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
