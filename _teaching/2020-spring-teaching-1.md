@@ -2,7 +2,7 @@
 title: "Teaching Assistant in Elementary Heat Transfer"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2020-spring-teaching-1
 venue: "University of Wisconsin-Madison, Department of Mechanical Engineering"
 date: 2020-01-01
 location: "Madison WI, USA"
