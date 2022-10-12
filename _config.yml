@@ -83,7 +83,7 @@ author:
   name             : "Georgios Koutsakis"
   avatar           : "profile.jpg"
   bio              : "Postdoctoral Fellow<br />Harvard University"
-  location         : "Cambridge, MA USA"
+  location         : "(Cambridge, MA USA)[https://en.wikipedia.org/wiki/Cambridge,_Massachusetts]"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=_uw9_l0AAAAJ&view_op=list_works&sortby=pubdate"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  cv               : /_files/CV - G. Koutsakis.pdf
 
 
 # Reading Files
