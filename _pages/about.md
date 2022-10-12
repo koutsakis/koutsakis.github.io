@@ -16,14 +16,14 @@ There are a host of heat transfer and solid mechanics problems related to the pe
 
 ![](/images/high-level-figure.png)
 
-During my Ph.D. I worked on thermal barrier coating problems for reciprocating combustion engines with Professor Jaal Ghandhi at the Engine Research Center of University of Wisconsin-Madison.
+During my Ph.D. I worked on thermal barrier coating problems for reciprocating combustion engines with [Professor Jaal B. Ghandhi](https://directory.engr.wisc.edu/me/Faculty/Ghandhi_Jaal/) at the [Engine Research Center](https://erc.wisc.edu/) of [University of Wisconsin-Madison](https://www.wisc.edu/).
 I have developed novel analytical techniques to evaluate both the thermal and mechanical performance of multilayer insulation systems.
 My projects involved
 <i>i)</i> developing novel algorithms for evaluating performance in system-level engine simulations and
 <i>ii)</i> predicting coating durability and failure, and
 <i>iii)</i> setting up high-throughput thermomechanical optimization routines.
 
-As Postdoctoral Fellow at Harvard University, 
+My research as a Postdoctoral Fellow at [Harvard University](https://www.harvard.edu/), working with [Professor David R. Clarke](https://www.seas.harvard.edu/person/david-clarke), is focused on heat transfer in thermal insulation systems for advanced high-performance gas turbines and hypersonic spacecraft vehicles. This includes the development of better models to describe heat transfer in coated systems as well as experimental measurements of the reliability of coated materials in use as thermal barrier coatings.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
