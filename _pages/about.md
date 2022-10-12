@@ -8,7 +8,20 @@ redirsect_from:
   - /about.html
 ---
 
-![](/images/high-level-figure_50.png)
+Climate change is predominantly affected by energy conversion applications;
+these include
+batteries, fuel cells, re-entry spacecrafts, hypersonics, reciprocating and gas turbines engines, as shown in Figure below. 
+A wide range of energy conversion devices rely on multilayer architectures to improve performance.
+There are a host of heat transfer and solid mechanics problems related to the performance of multilayers that are critical to solve important challenges.
+
+During my Ph.D. I worked on thermal barrier coating problems for reciprocating combustion engines.
+I have developed novel analytical techniques to evaluate both the thermal and mechanical performance of multilayer insulation systems.
+My projects involved
+<i>i)</i> developing novel algorithms for evaluating performance in system-level engine simulations and
+<i>i)</ii> predicting coating durability and failure, and
+<i>i)</iii> setting up high-throughput thermomechanical optimization routines.
+
+![](/images/high-level-figure.png)
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
