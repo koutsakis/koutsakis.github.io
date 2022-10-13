@@ -23,7 +23,8 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
-        <li><a href="https://en.wikipedia.org/wiki/Cambridge,_Massachusetts"></a><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <li><a href="https://en.wikipedia.org/wiki/Cambridge,_Massachusetts"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</a></li>
+        <!-- <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>  stock -->
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>

@@ -14,9 +14,9 @@ batteries, fuel cells, re-entry spacecrafts, hypersonics, reciprocating and gas 
 A wide range of energy conversion devices rely on multilayer architectures to improve performance.
 There are a host of heat transfer and solid mechanics problems related to the performance of multilayers that are critical to solve important challenges.
 
-<img src="https://koutsakis.github.io/images/high-level-figure.png" width=400 align=right>
+<img src="https://koutsakis.github.io/images/high-level-figure.png" width=350 align=right>
 
-During my Ph.D. I worked on thermal barrier coating problems for reciprocating combustion engines with [Professor Jaal B. Ghandhi](https://directory.engr.wisc.edu/me/Faculty/Ghandhi_Jaal/) at the [Engine Research Center](https://erc.wisc.edu/) of [University of Wisconsin-Madison](https://www.wisc.edu/).
+During my Ph.D. I worked on thermal barrier coating problems for reciprocating combustion engines with [Professor Jaal B. Ghandhi](https://directory.engr.wisc.edu/me/Faculty/Ghandhi_Jaal/) at the [Engine Research Center](https://erc.wisc.edu/) of [University of Wisconsin-Madison](https://www.wisc.edu/). The technological challenge faced was to maximize in-cylinder heat insulation while ensuring coating durability under the extreme conditions inside a diesel engine.
 I have developed novel analytical techniques to evaluate both the thermal and mechanical performance of multilayer insulation systems.
 My projects involved
 <i>i)</i> developing novel algorithms for evaluating performance in system-level engine simulations and
