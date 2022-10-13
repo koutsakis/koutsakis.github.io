@@ -8,8 +8,8 @@ redirsect_from:
   - /about.html
 ---
 
-I'm currently a Postdoctoral Fellow at [Harvard University](https://www.harvard.edu/). 
-I received my Diploma in Mechanical Engineering from the [University of Western Macedonia-Kozani, Greece](https://www.uowm.gr/en/) in 2016 and my PhD in Mechanical Engineering from the [University of Wisconsin-Madison](https://www.wisc.edu/) in 2022.
+I'm currently a Postdoctoral Fellow at [Harvard University](https://www.harvard.edu/) in Cambridge Massachusetts, USA. 
+I received my Diploma in Mechanical Engineering from the [University of Western Macedonia-Kozani](https://www.uowm.gr/en/), Greece in 2016 and my PhD in Mechanical Engineering from the [University of Wisconsin-Madison](https://www.wisc.edu/) in 2022.
 In the past, I have interned at [FEV GmbH](https://www.fev.com), Germany and [University of State of São Paolo](https://www.international.unesp.br/), Brazil.
 If you're interested in engineering problems at the intersection of thermal science and materials for energy conversion applications, I invite you to do the reading below.
 
