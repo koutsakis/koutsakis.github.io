@@ -14,7 +14,7 @@ batteries, fuel cells, re-entry spacecrafts, hypersonics, reciprocating and gas 
 A wide range of energy conversion devices rely on multilayer architectures to improve performance.
 There are a host of heat transfer and solid mechanics problems related to the performance of multilayers that are critical to solve important challenges.
 
-<img src="https://koutsakis.github.io/images/high-level-figure.png" width=350 align=right>
+<img src="https://koutsakis.github.io/images/high-level-figure.png" width=400 align=right>
 
 During my Ph.D. I worked on thermal barrier coating problems for reciprocating combustion engines with [Professor Jaal B. Ghandhi](https://directory.engr.wisc.edu/me/Faculty/Ghandhi_Jaal/) at the [Engine Research Center](https://erc.wisc.edu/) of [University of Wisconsin-Madison](https://www.wisc.edu/). The technological challenge faced was to maximize in-cylinder heat insulation while ensuring coating durability under the extreme conditions inside a diesel engine.
 I have developed novel analytical techniques to evaluate both the thermal and mechanical performance of multilayer insulation systems.
@@ -23,13 +23,23 @@ My projects involved
 <i>ii)</i> predicting coating durability and failure, and
 <i>iii)</i> setting up high-throughput thermomechanical optimization routines.
 
-My postdoctoral research working with [Professor David R. Clarke](https://www.seas.harvard.edu/person/david-clarke) at [Harvard University](https://www.harvard.edu/) is focused on thermal insulation systems for advanced high-performance gas turbines engines and hypersonic vehicles. This includes the development of better models to describe heat transfer in coated systems as well as experimental measurements of the reliability of coated materials in use as thermal barrier coatings.
+My postdoctoral research working with [Professor David R. Clarke](https://www.seas.harvard.edu/person/david-clarke) at [Harvard University School of Engineering and Applied Sciences](https://www.seas.harvard.edu/) is focused on thermal insulation systems for advanced high-performance gas turbines engines and hypersonic vehicles. This includes the development of better models to describe heat transfer in coated systems as well as experimental measurements of the reliability of coated materials in use as thermal barrier coatings.
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Service and leadership
+======
+* SAE Myers award committe, 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
