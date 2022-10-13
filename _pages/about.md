@@ -16,6 +16,8 @@ There are a host of heat transfer and solid mechanics problems related to the pe
 
 ![](/images/high-level-figure.png)
 
+<img src="https://www.adventurouskate.com/wp-content/uploads/2021/09/Things-to-Do-in-Cambridge-Massachusetts-1024x680.jpg" width=300 align=right>
+
 During my Ph.D. I worked on thermal barrier coating problems for reciprocating combustion engines with [Professor Jaal B. Ghandhi](https://directory.engr.wisc.edu/me/Faculty/Ghandhi_Jaal/) at the [Engine Research Center](https://erc.wisc.edu/) of [University of Wisconsin-Madison](https://www.wisc.edu/).
 I have developed novel analytical techniques to evaluate both the thermal and mechanical performance of multilayer insulation systems.
 My projects involved
