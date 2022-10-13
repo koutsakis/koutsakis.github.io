@@ -14,7 +14,7 @@ batteries, fuel cells, re-entry spacecrafts, hypersonics, reciprocating and gas 
 A wide range of energy conversion devices rely on multilayer architectures to improve performance.
 There are a host of heat transfer and solid mechanics problems related to the performance of multilayers that are critical to solve important challenges.
 
-<img src="https://koutsakis.github.io/images/high-level-figure.png" width=400 align=middle>
+<img src="https://koutsakis.github.io/images/high-level-figure.png" width=400 align=right>
 
 During my Ph.D. I worked on thermal barrier coating problems for reciprocating combustion engines with [Professor Jaal B. Ghandhi](https://directory.engr.wisc.edu/me/Faculty/Ghandhi_Jaal/) at the [Engine Research Center](https://erc.wisc.edu/) of [University of Wisconsin-Madison](https://www.wisc.edu/).
 I have developed novel analytical techniques to evaluate both the thermal and mechanical performance of multilayer insulation systems.
@@ -23,7 +23,7 @@ My projects involved
 <i>ii)</i> predicting coating durability and failure, and
 <i>iii)</i> setting up high-throughput thermomechanical optimization routines.
 
-My research as a Postdoctoral Fellow in Materials Science and Mechanical Engineering at [Harvard University](https://www.harvard.edu/), working with [Professor David R. Clarke](https://www.seas.harvard.edu/person/david-clarke), is focused on heat transfer in thermal insulation systems for advanced high-performance gas turbines and hypersonic spacecraft vehicles. This includes the development of better models to describe heat transfer in coated systems as well as experimental measurements of the reliability of coated materials in use as thermal barrier coatings.
+My postdoctoral research working with [Professor David R. Clarke](https://www.seas.harvard.edu/person/david-clarke) at [Harvard University](https://www.harvard.edu/) is focused on thermal insulation systems for advanced high-performance gas turbines engines and hypersonic vehicles. This includes the development of better models to describe heat transfer in coated systems as well as experimental measurements of the reliability of coated materials in use as thermal barrier coatings.
 
 Publications
 ======
