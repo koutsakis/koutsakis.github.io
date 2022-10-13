@@ -10,7 +10,7 @@ redirsect_from:
 
 I'm currently a Postdoctoral Fellow at [Harvard University](https://www.harvard.edu/). 
 I received my Diploma in Mechanical Engineering from the [University of Western Macedonia-Kozani, Greece](https://www.uowm.gr/en/) in 2016 and my PhD in Mechanical Engineering from the [University of Wisconsin-Madison](https://www.wisc.edu/) in 2022.
-In the past, I have interned at [FEV GmbH](https://www.fev.com), Germany and [University of State of São Paolo (UNESP)](https://www.international.unesp.br/), Brazil.
+In the past, I have interned at [FEV GmbH](https://www.fev.com), Germany and [University of State of São Paolo](https://www.international.unesp.br/), Brazil.
 If you're interested in engineering problems related to energy and materials, I invite you to do the reading below.
 
 Climate change is predominantly affected by energy conversion applications;

@@ -41,6 +41,7 @@ staticman:
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
+    emailpersonal        : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -88,6 +89,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=_uw9_l0AAAAJ&view_op=list_works&sortby=pubdate"
   email            : "koutsakis@seas.harvard.edu"
+  emailpersonal    : "georgios.koutsakis@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
