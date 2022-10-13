@@ -8,8 +8,6 @@ redirsect_from:
   - /about.html
 ---
 
-H
-
 Climate change is predominantly affected by energy conversion applications;
 these include
 batteries, fuel cells, re-entry spacecrafts, hypersonics, reciprocating and gas turbines engines, as shown in the figure below. 
