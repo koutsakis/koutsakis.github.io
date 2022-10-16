@@ -117,7 +117,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "https://koutsakis.github.io/files/CV-Koutsakis.pdf"
+  cv               : #"https://koutsakis.github.io/files/CV-Koutsakis.pdf"
 
 
 # Reading Files
