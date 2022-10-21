@@ -13,18 +13,18 @@ I received my PhD in Mechanical Engineering from the [University of Wisconsin-Ma
 In the past, I have interned at [FEV GmbH](https://www.fev.com), Germany (2015) and [University of State of São Paolo](https://www.international.unesp.br/), Brazil (2014).
 If you're interested in engineering problems at the intersection of thermal science and materials for energy conversion applications, I invite you to do the reading below.
 
-Climate change is predominantly affected by energy conversion applications;
-these include
-batteries, fuel cells, re-entry spacecrafts, hypersonics, reciprocating and gas turbines engines, as shown in the figure below. 
-A wide range of energy conversion devices rely on multilayer architectures to improve performance.
-There are a host of heat transfer and solid mechanics problems related to the performance of multilayers that are critical to solve important challenges.
+
+Climate change is driven by energy-conversion devices, and heat transfer often limits the overall efficiency of said devices.
+A number of applications rely on multilayer architectures to improve the inevitable trade-off between heat transfer and mechanical integrity.
+There remain significant heat transfer and solid mechanics problems related to the performance of multilayers that impact an array of devices, see Figure.
 
 <img src="https://koutsakis.github.io/images/high-level-figure.png" width=400 align=right>
 
-During my Ph.D. I worked on thermal barrier coating problems for reciprocating combustion engines with [Professor Jaal B. Ghandhi](https://directory.engr.wisc.edu/me/Faculty/Ghandhi_Jaal/) at the [Engine Research Center](https://erc.wisc.edu/) of [University of Wisconsin-Madison](https://www.wisc.edu/). The technological challenge faced was to maximize in-cylinder heat insulation while ensuring coating durability under the extreme conditions inside a diesel engine.
-I have developed novel analytical techniques to evaluate both the thermal and mechanical performance of multilayer insulation systems.
+My Ph.D. research focused on thermal barrier coatings for reciprocating internal combustion engines with [Professor Jaal B. Ghandhi](https://directory.engr.wisc.edu/me/Faculty/Ghandhi_Jaal/) at the [Engine Research Center](https://erc.wisc.edu/) of [University of Wisconsin-Madison](https://www.wisc.edu/). 
+The technological challenge faced was to maximize in-cylinder heat insulation while ensuring coating durability under the extreme conditions inside a diesel engine.
+I developed analytical techniques to evaluate both the thermal and mechanical performance of multilayer insulation systems.
 My projects involved
-<i>i)</i> developing novel algorithms for evaluating performance in system-level engine simulations and
+<i>i)</i> developing fast-solving, high accuracy algorithms for evaluating performance in system-level engine simulations and
 <i>ii)</i> predicting coating durability and failure, and
 <i>iii)</i> setting up high-throughput thermomechanical optimization routines.
 
