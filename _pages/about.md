@@ -28,7 +28,7 @@ My projects involved
 <i>ii)</i> predicting coating durability and failure, and
 <i>iii)</i> setting up high-throughput thermomechanical optimization routines.
 
-My postdoctoral research working with [Professor David R. Clarke](https://www.seas.harvard.edu/person/david-clarke) at [Harvard University School of Engineering and Applied Sciences](https://www.seas.harvard.edu/) is focused on thermal insulation systems for advanced high-performance gas turbines engines and spacecraft vehicles. This includes the development of better models to describe heat transfer in coated systems as well as experimental measurements of the reliability of coated materials in use as thermal barrier coatings.
+My postdoctoral research working with [Professor David R. Clarke](https://www.seas.harvard.edu/person/david-clarke) at [Harvard University School of Engineering and Applied Sciences](https://www.seas.harvard.edu/) is focused on thermal insulation systems for advanced high-performance gas turbine engines and spacecraft vehicles. This includes the development of better models to describe heat transfer in coated systems as well as experimental measurements of the reliability of coated materials in use as thermal barrier coatings.
 
 Publications
 ======
